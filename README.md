@@ -2,7 +2,7 @@
 
 <ul><li><b><h3>How to use 👇🏻</h3></b>
 <ul>
-<li><i>Just Fork this Repository and Go to Actions tab.</i><br/>
+<li><i>Just Fork this Repository and Go to "Actions" tab.</i><br/>
 <li><i>Select the "TX-WIN-CRD" workflow.</i><br/>
 <li><i>Then Select "Run workflow".</i><br/>
 <li><i>Now go to https://remotedesktop.google.com/headless and Get the "Windows (PowerShell)" code and paste it on "Enter CRD code".</i><br/>
