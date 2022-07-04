@@ -9,3 +9,6 @@
 <li><i>Enter 6 digit pin(Any Six digit Pin) in the "Six digit pin".</i><br/>
 <li><i>After that, Press "Run workflow".</i><br/>
 <li><i>Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.</i></ul></ul>
+
+### DISCLAIMER
+                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
