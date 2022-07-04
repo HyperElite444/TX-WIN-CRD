@@ -1,4 +1,4 @@
-# ___TX-WIN-CRD (CHROME REMOTE DESKTOP)___
+# TX-WIN-CRD (CHROME REMOTE DESKTOP)
 
 ### HOW TO USE
 <ul>
@@ -9,6 +9,10 @@
 <li><i>Enter 6 digit pin(Any Six digit Pin) in the "Six digit pin".</i><br/>
 <li><i>After that, Press "Run workflow".</i><br/>
 <li><i>Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.</i></ul></ul>
+
+### Contact For Contribute & Issues 
+
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : mrthenux@gmail.com
 
 ### DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
